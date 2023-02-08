@@ -7,8 +7,10 @@ Find out more about me & feel free to connect with me here: at d.deloatch@gmail.
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-DonnellDeLoatch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donnelldeloatch/)](https://www.linkedin.com/in/donnelldeloatch/)
-[![Medium Badge](https://img.shields.io/badge/DonnellDeLoatch-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@d.deloatch)](https://medium.com/@d.deloatch
-[![Gmail Badge](https://img.shields.io/badge/-d.deloatch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.deloatch@gmail.com)](mailto:d.deloatch@gmail.com
+[![Medium Badge](https://img.shields.io/badge/DonnellDeloatch-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@d.deloatch)](https://medium.com/@d.deloatch)
+[![Gmail Badge](https://img.shields.io/badge/-d.deloatch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d.deloatch@gmail.com)](mailto:<d.deloatch@gmail.com)
+
+## ⚡ Technologies
 
 ## ⚡ Technologies
 
